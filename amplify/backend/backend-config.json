@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awsreacttutorial62b555c3": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
